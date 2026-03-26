@@ -208,8 +208,8 @@ This project demonstrates how analytics can:
 📊 Data Analytics | Credit Risk | Financial Analysis
 
 📧 Email: sgaziamumh@gmail.com
-🔗 LinkedIn: linkedin.com/in/samiul-gazi
-🌐 GitHub: github.com/Samiul1947
+🔗 LinkedIn: www.linkedin.com/in/samiul-gazi
+🌐 GitHub: https://github.com/Samiul1947
 
 ---
 
